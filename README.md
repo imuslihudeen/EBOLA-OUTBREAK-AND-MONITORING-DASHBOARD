@@ -16,22 +16,21 @@ The Ebola outbreak demonstrates significant geographic and systemic disparities 
 - Step 5 : Load data into Power BI Desktop, dataset is a csv file
 - Step 6 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 7 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4 : In the report view, under the view tab, theme was selected.
-
-- Step 5 : A bar chart was also added to the report design area representing a plot of the indicators against the countries.
+- Step 8 : In the report view, under the view tab, theme was selected.
+- Step 9 : A bar chart was also added to the report design area representing a plot of the indicators against the countries.
 
 ![Sum value by indicator and country](https://github.com/user-attachments/assets/d8c65646-40c6-455c-9ad5-e07db084732d)
 
-- Step 6 : A donut chart was also added to the report design area representing the sum of ebola indicators.
+- Step 10 : A donut chart was also added to the report design area representing the sum of ebola indicators.
 
 ![Sum value of Ebola indicators](https://github.com/user-attachments/assets/e0e08236-b4c3-463e-9bd4-80c25f1be2f1)
 
-- Step 7 : A bar chart was also added to the report design area representing the top sales.
+- Step 11 : A bar chart was also added to the report design area representing the top sales.
 
 ![Sum value by number of cases and country](https://github.com/user-attachments/assets/d4e326db-b671-4dfa-a0f3-4b4787b571d9)
 
 
-- Step 8 : A bar chart was also added to the report design area representing the case fatality rate per country.
+- Step 12 : A bar chart was also added to the report design area representing the case fatality rate per country.
 
 ![Sum value by case fatality per country](https://github.com/user-attachments/assets/53b2f1fc-4764-4076-bd4e-f473f60cedc5)
  
