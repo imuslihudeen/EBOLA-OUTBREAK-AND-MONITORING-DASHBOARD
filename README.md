@@ -1,4 +1,4 @@
-# EBOLA-OUTBREAK-AND-MONITORING-DASHBOARD
+# Ebola-Outbreak-and-Monitoring-Dashboard
 
 
 # Ebola outbreak and Monitoring Dashboard (Excel to Power BI Project)
